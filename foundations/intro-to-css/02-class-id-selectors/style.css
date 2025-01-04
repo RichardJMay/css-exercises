@@ -1,0 +1,19 @@
+.styled {
+    background-color: #FFC0CB;
+    font-family:"Verdana", "DejaVu Sans", sans-serif; 
+  }
+
+  #title {
+    color: #000EBF;
+    font-size: 36px;
+  }
+
+  .adjust-font-size {
+    font-size: 24px;
+  }
+
+  #four {
+    background-color: #D1FFBD;
+    font-size: 24px;
+    font-weight: bold;
+  }
